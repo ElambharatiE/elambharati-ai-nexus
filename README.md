@@ -1,73 +1,63 @@
-# Welcome to your Lovable project
+🌟 Elambharati E – AI & ML Engineer Portfolio
 
-## Project info
+Welcome to my portfolio! 🚀
+I’m Elambharati E, a Computer Science undergraduate (B.Tech CSE, CGPA 8.68/10) passionate about Artificial Intelligence, Machine Learning, and AI-native systems. This portfolio showcases my journey in building intelligent applications, experimenting with LLMs, and pushing the boundaries of AI-powered developer tools.
 
-**URL**: https://lovable.dev/projects/d88355c5-6b08-4db0-b8d6-a326821953a9
+🔹 About Me
 
-## How can I edit this code?
+🎓 B.Tech CSE @ Kalasalingam Academy of Research and Education (2022–2026)
 
-There are several ways of editing your application.
+💡 AI-native builder passionate about RAG pipelines, Conversational AI, and multi-agent systems
 
-**Use Lovable**
+⚡ Experience with LangChain, Hugging Face, Prompt Engineering, NLP, and Vector Databases
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/d88355c5-6b08-4db0-b8d6-a326821953a9) and start prompting.
+🏆 Hackathon Winner & Published Researcher in AI & NLP
 
-Changes made via Lovable will be committed automatically to this repo.
+🌍 Building projects that bridge AI, data, and real-world impact
 
-**Use your preferred IDE**
+🔹 Skills
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+AI/ML: LLMs, RAG Architectures, LangChain, Hugging Face Transformers, Prompt Engineering, NLP
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Programming: Python, Java, SQL, JavaScript, MERN Stack, FastAPI
 
-Follow these steps:
+Tools & Platforms: Git, GitHub, Docker, Firebase, LangSmith (familiar), Weights & Biases (familiar)
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Other Skills: Problem Solving, Rapid Prototyping, Leadership, Communication
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+🔹 Projects
+🧠 Financial Chatbot with RAG Integration
 
-# Step 3: Install the necessary dependencies.
-npm i
+AI-driven financial assistant using LangChain + FAISS with real-time retrieval and Python-MeTTa bridge. 🏆 Winner @ HackIndia 2025.
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+🌐 METAX – Decentralized Social Media Platform
 
-**Edit a file directly in GitHub**
+Web3-powered platform with IPFS storage, wallet login, and token-based governance.
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+🌍 Multilingual Tech Support Chatbot
 
-**Use GitHub Codespaces**
+Real-time NLP + Google Translate API chatbot supporting multiple languages. Published as a research paper.
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+📱 JobHub – Platform for Unorganized Workers
 
-## What technologies are used for this project?
+Flutter + Node.js mobile app connecting informal workers with clients.
 
-This project is built with:
+🔬 Raman Spectrometer GUI (AI-Enhanced)
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+Python GUI for spectrometer data with calibration, AI preprocessing, and visualization.
 
-## How can I deploy this project?
+🔹 Achievements
 
-Simply open [Lovable](https://lovable.dev/projects/d88355c5-6b08-4db0-b8d6-a326821953a9) and click on Share -> Publish.
+🏆 Winner – HackIndia 2025 (Web3 & AI Hackathon)
 
-## Can I connect a custom domain to my Lovable project?
+🏅 Finalist – GeeksforGeeks Algorithmist 2024
 
-Yes, you can!
+📄 Published Research Paper – Multilingual Tech Support Chatbot
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+🔹 Contact
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+📧 Email: eelambharati@gmail.com
+
+💼 LinkedIn: linkedin.com/in/elambharati-e-8b713b261
+
+💻 GitHub: github.com/ElambharatiE
